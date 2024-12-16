@@ -1,4 +1,4 @@
-#o mnie
+*#o mnie
 
 ##opis
 jestem studentem pjatk w Gdańsku.
